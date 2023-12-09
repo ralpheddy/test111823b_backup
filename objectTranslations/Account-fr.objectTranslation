@@ -316,6 +316,138 @@
         <label><!-- Undeliverable Billing Address --></label>
         <name>npsp__Undeliverable_Address__c</name>
     </fields>
+    <layouts>
+        <layout>Household Layout</layout>
+        <sections>
+            <label>Informations sur les dons</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Totaux des dons</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Champs</label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label>Informations sur l’adhésion</label>
+            <section>Membership Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Household Lightning Layout</layout>
+        <sections>
+            <label>Informations sur les dons</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Totaux des dons</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Champs</label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label>Informations sur l’adhésion</label>
+            <section>Membership Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Organization Layout</layout>
+        <sections>
+            <label>Informations sur les dons</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Totaux des dons</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Champs</label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label>Informations sur l’octroi de subvention</label>
+            <section>Grantmaking Information</section>
+        </sections>
+        <sections>
+            <label>Informations sur les dons jumelés</label>
+            <section>Matching Gift Information</section>
+        </sections>
+        <sections>
+            <label>Informations sur l’adhésion</label>
+            <section>Membership Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Organization Lightning Layout</layout>
+        <sections>
+            <label>Informations sur les dons</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Totaux des dons</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Champs</label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label>Informations sur l’octroi de subvention</label>
+            <section>Grantmaking Information</section>
+        </sections>
+        <sections>
+            <label><!-- Matching Gift Information --></label>
+            <section>Matching Gift Information</section>
+        </sections>
+        <sections>
+            <label>Informations sur l’adhésion</label>
+            <section>Membership Information</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- New Donation --></label>
+        <name>New_Donation</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Grant --></label>
+        <name>New_Grant</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New In-Kind Gift --></label>
+        <name>New_In_Kind_Gift</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Major Gift --></label>
+        <name>New_Major_Gift</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Matching Gift --></label>
+        <name>New_Matching_Gift</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Membership --></label>
+        <name>New_Membership</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Address --></label>
+        <name>npsp__New_Address</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Affiliation --></label>
+        <name>npsp__New_Affiliation</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Quick Update --></label>
+        <name>npsp__Quick_Household_Update</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Quick Update --></label>
+        <name>npsp__Quick_Organization_Update</name>
+    </quickActions>
     <recordTypes>
         <description><!-- An Account representing a Household containing one or more individuals --></description>
         <label><!-- Household Account --></label>
