@@ -36,11 +36,6 @@
         <visible>false</visible>
     </applicationVisibilities>
     <applicationVisibilities>
-        <application>standard__LightningInstrumentation</application>
-        <default>false</default>
-        <visible>false</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
         <application>standard__LightningSales</application>
         <default>false</default>
         <visible>false</visible>
@@ -4341,6 +4336,11 @@
         <editable>true</editable>
         <field>Account.Industry</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.International__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -11088,6 +11088,17 @@
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>Account-npsp__Household Layout</layout>
+        <recordType>Account.HH_Account</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-npsp__Organization Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-npsp__Organization Layout</layout>
+        <recordType>Account.Organization</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Asset-Asset Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -11128,6 +11139,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>CommunityMemberLayout-Community Member Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Contact-npsp__Contact Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ContactPointAddress-Contact Point Address Layout</layout>
@@ -11800,10 +11814,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>npsp__Engagement_Plan_Template__c</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>npsp__GE_Gift_Entry</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
