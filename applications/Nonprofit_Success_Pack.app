@@ -2,7 +2,6 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <brand>
         <headerColor>#00A1E0</headerColor>
-        <logo>RGB_nspscolor_copy</logo>
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
