@@ -5,6 +5,17 @@
         <label><!-- Amount to Goal --></label>
         <name>Amount_to_Goal__c</name>
     </fields>
+    <layouts>
+        <layout>NPSP Campaign Layout</layout>
+        <sections>
+            <label><!-- Campaign Description --></label>
+            <section>Campaign Description</section>
+        </sections>
+        <sections>
+            <label><!-- Donation Information --></label>
+            <section>Donation Information</section>
+        </sections>
+    </layouts>
     <recordTypes>
         <description><!-- Use this Record Type for Events --></description>
         <label><!-- Event --></label>
