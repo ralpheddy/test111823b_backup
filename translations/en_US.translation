@@ -3,11 +3,6 @@
     <customApplications>
         <description xsi:nil="true"/>
         <label><!-- Nonprofit Success Pack --></label>
-        <name>Nonprofit_CRM</name>
-    </customApplications>
-    <customApplications>
-        <description xsi:nil="true"/>
-        <label><!-- Nonprofit Success Pack --></label>
         <name>Nonprofit_Success_Pack</name>
     </customApplications>
     <customLabels>
@@ -8434,135 +8429,13 @@
         <label><!-- Label for update payment method option on Recurring Donations Action --></label>
         <name>npsp__updatePaymentMethod</name>
     </customLabels>
-    <customPageWebLinks>
-        <label><!-- DEPRECATED: Nonprofit Edition Reports --></label>
-        <name>Nonprofit_Edition_Reports</name>
-    </customPageWebLinks>
-    <customTabs>
-        <label><!-- Affiliations Settings --></label>
-        <name>Affiliations_Settings</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Batch Data Entry --></label>
-        <name>Batch_Data_Entry</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Batch Gift Entry --></label>
-        <name>Batch_Gift_Entry</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Contact Merge (OLD) --></label>
-        <name>Contact_Merge</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Contact Merge --></label>
-        <name>Contact_Merge</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Contacts Settings --></label>
-        <name>Contacts_Settings</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Gift Entry --></label>
-        <name>GE_Gift_Entry</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Get Started with NPSP - Admin --></label>
-        <name>GetStarted</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Get Started with NPSP --></label>
-        <name>GetStartedEndUser</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Households Settings --></label>
-        <name>Households_Settings</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Getting Started --></label>
-        <name>NPSP_Resources</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- NPSP Settings --></label>
-        <name>NPSP_Settings</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Opportunity Rollups --></label>
-        <name>Opportunity_Rollups</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Payment Mapping --></label>
-        <name>Payment_Mapping</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- Relationships Settings --></label>
-        <name>Relationships_Settings</name>
-    </customTabs>
-    <customTabs>
-        <label><!-- User Rollups --></label>
-        <name>User_Rollups</name>
-    </customTabs>
-    <prompts>
-        <name>GetStartedwithNPSP</name>
-        <promptVersions>
-            <name>Get Started with NPSP</name>
-        </promptVersions>
-    </prompts>
-    <prompts>
-        <name>ReportGuidance</name>
-        <promptVersions>
-            <name>Report Guidance</name>
-        </promptVersions>
-    </prompts>
-    <prompts>
-        <name>NPSPContactMergeGuidance</name>
-        <promptVersions>
-            <name>NPSP Contact Merge Guidance</name>
-        </promptVersions>
-    </prompts>
-    <prompts>
-        <name>OpportunityPageGuidanceOrganizationDonation</name>
-        <promptVersions>
-            <name>Opportunity Page Guidance - Organization Donation</name>
-        </promptVersions>
-    </prompts>
-    <prompts>
-        <name>ReportGuidanceStandardReportTypes</name>
-        <promptVersions>
-            <name>Report Guidance - Standard Report Types</name>
-        </promptVersions>
-    </prompts>
-    <prompts>
-        <name>OpportunityPageGuidance</name>
-        <promptVersions>
-            <name>Opportunity Page Guidance</name>
-        </promptVersions>
-    </prompts>
-    <prompts>
-        <name>ContactPageGuidance</name>
-        <promptVersions>
-            <name>Contact Page Guidance</name>
-        </promptVersions>
-    </prompts>
-    <quickActions>
-        <label><!-- Log a Call --></label>
-        <name>LogACall</name>
-    </quickActions>
     <quickActions>
         <label><!-- LogACall --></label>
         <name>LogACall</name>
     </quickActions>
     <quickActions>
-        <label><!-- New Account --></label>
-        <name>NewAccount</name>
-    </quickActions>
-    <quickActions>
         <label><!-- NewCase --></label>
         <name>NewCase</name>
-    </quickActions>
-    <quickActions>
-        <label><!-- New Contact --></label>
-        <name>NewContact</name>
     </quickActions>
     <quickActions>
         <label><!-- NewContact --></label>
@@ -8581,40 +8454,16 @@
         <name>NewLead</name>
     </quickActions>
     <quickActions>
-        <label><!-- New Note --></label>
-        <name>NewNote</name>
-    </quickActions>
-    <quickActions>
-        <label><!-- New Note --></label>
-        <name>NewNote</name>
-    </quickActions>
-    <quickActions>
         <label><!-- NewNote --></label>
         <name>NewNote</name>
-    </quickActions>
-    <quickActions>
-        <label><!-- New Opportunity --></label>
-        <name>NewOpportunity</name>
     </quickActions>
     <quickActions>
         <label><!-- NewOpportunity --></label>
         <name>NewOpportunity</name>
     </quickActions>
     <quickActions>
-        <label><!-- New Task --></label>
-        <name>NewTask</name>
-    </quickActions>
-    <quickActions>
-        <label><!-- New Task --></label>
-        <name>NewTask</name>
-    </quickActions>
-    <quickActions>
         <label><!-- NewTask --></label>
         <name>NewTask</name>
-    </quickActions>
-    <quickActions>
-        <label><!-- New Campaign --></label>
-        <name>New_Campaign</name>
     </quickActions>
     <quickActions>
         <label><!-- New Donation --></label>
@@ -8633,91 +8482,7 @@
         <name>New_Organization</name>
     </quickActions>
     <quickActions>
-        <label><!-- New Recurring Donation --></label>
-        <name>New_Recurring_Donation</name>
-    </quickActions>
-    <quickActions>
         <label><!-- SendEmail --></label>
         <name>SendEmail</name>
     </quickActions>
-    <reportTypes>
-        <description><!-- Contacts Only --></description>
-        <label><!-- Contacts Only --></label>
-        <name>Contacts_Only</name>
-        <sections>
-            <label><!-- Contacts --></label>
-            <name>Contacts</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- Households and Donations --></description>
-        <label><!-- Households and Donations --></label>
-        <name>Households_and_Donations</name>
-        <sections>
-            <label><!-- Contacts --></label>
-            <name>Contacts</name>
-        </sections>
-        <sections>
-            <label><!-- Household Members --></label>
-            <name>Household Members</name>
-        </sections>
-        <sections>
-            <label><!-- Households --></label>
-            <name>Households</name>
-        </sections>
-        <sections>
-            <label><!-- Opportunities --></label>
-            <name>Opportunities</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- Opportunities w/Contacts w/Affiliations (custom) --></description>
-        <label><!-- Opportunities w/Contacts w/Affiliations (custom) --></label>
-        <name>Opportunities_with_Contacts_with_Affiliations</name>
-        <sections>
-            <label><!-- Affiliated Organization --></label>
-            <name>Affiliated Organization</name>
-        </sections>
-        <sections>
-            <label><!-- Contact Roles --></label>
-            <name>Contact Roles</name>
-        </sections>
-        <sections>
-            <label><!-- Opportunities --></label>
-            <name>Opportunities</name>
-        </sections>
-        <sections>
-            <label><!-- Organization Affiliations --></label>
-            <name>Organization Affiliations</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- Screen Flows --></description>
-        <label><!-- Screen Flows --></label>
-        <name>screen_flows_prebuilt_crt</name>
-        <sections>
-            <label><!-- Flow Interview Log Entries --></label>
-            <name>Flow Interview Log Entries</name>
-        </sections>
-        <sections>
-            <label><!-- Flow Interview Logs --></label>
-            <name>Flow Interview Logs</name>
-        </sections>
-    </reportTypes>
-    <scontrols>
-        <label><!-- AccountViewOverride --></label>
-        <name>AccountViewOverride</name>
-    </scontrols>
-    <scontrols>
-        <label><!-- ContactDonationCredit --></label>
-        <name>ContactDonationCredit</name>
-    </scontrols>
-    <scontrols>
-        <label><!-- HouseholdTransactionHistory --></label>
-        <name>HouseholdTransactionHistory</name>
-    </scontrols>
-    <scontrols>
-        <label><!-- OpportunityCreateMatching --></label>
-        <name>OpportunityCreateMatching</name>
-    </scontrols>
 </Translations>

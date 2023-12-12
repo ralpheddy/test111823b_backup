@@ -70,11 +70,4 @@
         <label><!-- Company Street --></label>
         <name>npsp__CompanyStreet__c</name>
     </fields>
-    <layouts>
-        <layout>Lead Layout</layout>
-        <sections>
-            <label><!-- Volunteer Information --></label>
-            <section>Volunteer Information</section>
-        </sections>
-    </layouts>
 </CustomObjectTranslation>
