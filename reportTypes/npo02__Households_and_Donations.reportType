@@ -572,12 +572,4 @@
         </columns>
         <masterLabel>Opportunities</masterLabel>
     </sections>
-    <sections>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <field>Save__c</field>
-            <table>npo02__Household__c.npo02__Contacts__r</table>
-        </columns>
-        <masterLabel>Contacts</masterLabel>
-    </sections>
 </ReportType>
