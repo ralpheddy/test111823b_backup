@@ -198,7 +198,26 @@
         <label><!-- Number of Household Members --></label>
         <name>npsp__Number_of_Household_Members__c</name>
     </fields>
+    <layouts>
+        <layout>Household Layout</layout>
+        <sections>
+            <label>Donation Information</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Donation Totals</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Household Information</label>
+            <section>Household Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Household Name</nameFieldLabel>
+    <quickActions>
+        <label><!-- Update Household --></label>
+        <name>npsp__Update_Household</name>
+    </quickActions>
     <startsWith>Consonant</startsWith>
     <webLinks>
         <label><!-- Copy_Household_Address_to_Contacts --></label>
