@@ -416,6 +416,96 @@
             <translation>זיכרון</translation>
         </picklistValues>
     </fields>
+    <layouts>
+        <layout>Donation Layout</layout>
+        <sections>
+            <label>פרטי תרומה</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label><!-- Matching Gift Information --></label>
+            <section>Matching Gift Information</section>
+        </sections>
+        <sections>
+            <label><!-- Recurring Donation --></label>
+            <section>Recurring Donation</section>
+        </sections>
+        <sections>
+            <label><!-- Tribute Information --></label>
+            <section>Tribute Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Grant Layout</layout>
+        <sections>
+            <label>פרטי תרומה</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>פרטי מענק</label>
+            <section>Grant Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>In-Kind Gift Layout</layout>
+        <sections>
+            <label>פרטי תרומה</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>פרטי שווה-ערך</label>
+            <section>In-Kind Information</section>
+        </sections>
+        <sections>
+            <label>פרטי הוקרה</label>
+            <section>Tribute Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Major Gift Layout</layout>
+        <sections>
+            <label>פרטי תרומה</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>פרטי תרומה גדולה</label>
+            <section>Major Gift Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Matching Gift Layout</layout>
+        <sections>
+            <label>פרטי תרומה</label>
+            <section>Donation Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Membership Layout</layout>
+        <sections>
+            <label>שדות</label>
+            <section>Fields</section>
+        </sections>
+        <sections>
+            <label>פרטי חבר</label>
+            <section>Member Information</section>
+        </sections>
+        <sections>
+            <label><!-- Recurring Donation --></label>
+            <section>Recurring Donation</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- New Deliverable --></label>
+        <name>New_Deliverable</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Payment --></label>
+        <name>npsp__New_Payment</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Quick Update --></label>
+        <name>npsp__Quick_Update</name>
+    </quickActions>
     <recordTypes>
         <description><!-- Donation Received --></description>
         <label><!-- Donation --></label>
