@@ -199,7 +199,26 @@
         <name>npsp__Number_of_Household_Members__c</name>
     </fields>
     <gender>Neuter</gender>
+    <layouts>
+        <layout>Household Layout</layout>
+        <sections>
+            <label>Donatie Informatie</label>
+            <section>Donation Information</section>
+        </sections>
+        <sections>
+            <label>Donatie Totalen</label>
+            <section>Donation Totals</section>
+        </sections>
+        <sections>
+            <label>Huishoud Informatie</label>
+            <section>Household Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Naam van huishouden</nameFieldLabel>
+    <quickActions>
+        <label><!-- Update Household --></label>
+        <name>npsp__Update_Household</name>
+    </quickActions>
     <webLinks>
         <label><!-- Copy_Household_Address_to_Contacts --></label>
         <name>npo02__Copy_Household_Address_to_Contacts</name>
