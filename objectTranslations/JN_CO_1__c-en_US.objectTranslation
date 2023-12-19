@@ -12,12 +12,5 @@
         <label><!-- JNCO1 Date --></label>
         <name>JNCO1_Date__c</name>
     </fields>
-    <layouts>
-        <layout>JN CO 1 Layout</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
